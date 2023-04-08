@@ -22,7 +22,7 @@ python-dateutil==2.8.2
 pip==23.0.1
 shortuuid==1.0.11
 six==1.16.0
-sklearn==0.0.post1
+sklearn==0.0.0
 SQLAlchemy==2.0.7
 typing_extensions==4.5.0
 validators==0.20.0
